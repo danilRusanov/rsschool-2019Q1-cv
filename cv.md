@@ -34,11 +34,11 @@
    
  *September, 2017 – Presence – Software testing engineer, Qulix systems, Minsk, Belarus*  
    
- 	**Project:** VPBank
+ 	Project: VPBank
  	
-	**Project role:** Tester  
+	Project role: Tester  
 	 
-    **Following task:**  
+    Following task:  
 	 * Functional testing
 	 * API testing
 	 * UI testing
@@ -47,13 +47,13 @@
 	 * Bug hunting and reporting
 	 * Bug fix verification  
  	 
-	**Languages:** HTML, CSS  
+	Languages: HTML, CSS  
 	 
-	**Tools:**  Firebug, JIRA, SQL  
+	Tools:  Firebug, JIRA, SQL  
     
  **May 2016 – April, 2017 – LiftDigital, Specialist of online marketing, Maksis, AD agency**  
     
-	**Project:** LiftDigital is an internet AD agency that provide next services:
+	Project: LiftDigital is an internet AD agency that provide next services:
 	 * SEO, searching engine optimization;
 	 * SERP, searching engine results pages;
 	 * SERM, search engine reputation management;
@@ -62,9 +62,9 @@
 	 * Usability optimization;
 	 * Site development  
 	  
-	**Project Role:** specialist of online marketing  
+	Project Role: specialist of online marketing  
 	 
-	**Following tasks were performed:**  
+	Following tasks were performed:
 	 * SEO Check-list
 	 * SERM
 	 * PPC
@@ -74,7 +74,7 @@
 	 * Create project plan
 	 * Team management (3 persons)  
 	  
-	**Tools:**  Google Adwords, Google Analytic, Google Webmaster tools, Yandex Direct, Yandex Metric, Yandex Webmaster, Google Adwords editor, mainspy.ru, KeyCollector, RDS bar, Userator  
+	Tools:  Google Adwords, Google Analytic, Google Webmaster tools, Yandex Direct, Yandex Metric, Yandex Webmaster, Google Adwords editor, mainspy.ru, KeyCollector, RDS bar, Userator  
 	 
 **Education:**  
  
